@@ -4,3 +4,6 @@ PLANNING EDITING VIDEO
 - CAPCUT
 - ADOBE PREMIERE
 - EDIUS
+OpenShot
+- Dasar
+- Expert
