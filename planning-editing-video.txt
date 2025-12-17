@@ -6,4 +6,5 @@ PLANNING EDITING VIDEO
 - EDIUS
 OpenShot
 - Dasar
+- Menengah
 - Expert
