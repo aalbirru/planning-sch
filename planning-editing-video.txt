@@ -4,6 +4,8 @@ PLANNING EDITING VIDEO
 - CAPCUT
 - ADOBE PREMIERE
 - EDIUS
+  - render
+  - After Effect
 OpenShot
 - Dasar
 - Menengah
