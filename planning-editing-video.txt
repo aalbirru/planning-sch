@@ -5,7 +5,7 @@ PLANNING EDITING VIDEO
 - ADOBE PREMIERE
 - EDIUS
   - render
-  - Effect
+  - After Effect
 OpenShot
 - Dasar
 - Menengah
